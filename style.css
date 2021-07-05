@@ -61,3 +61,6 @@ h1{
 #web-stack{
     border-image: linear-gradient(#f6b73c, #948690) 30;
 }
+footer p{
+    text-align: center;
+}
